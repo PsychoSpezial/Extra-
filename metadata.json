@@ -1,0 +1,6 @@
+{
+  "name": "Psycho Spezial",
+  "description": "Aufklärungs-App & Erstanlaufstelle mit KI-Begleitung, anonymer Community und interaktiver Mediathek zu toxischen Dynamiken, Trauma und psychischer Gewalt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
